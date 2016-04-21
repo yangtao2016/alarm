@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  AlarmChaser
+
+  Created by as on 2015/05/20.
+  Copyright (c) 2015年 tongari. All rights reserved.
+*/
+
+CFBundleDisplayName = "恶魔闹钟";

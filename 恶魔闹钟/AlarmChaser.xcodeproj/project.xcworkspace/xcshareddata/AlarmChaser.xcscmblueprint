@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0e1d5997-a9c2-4112-bfe5-6057942f95eb",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0e1d5997-a9c2-4112-bfe5-6057942f95eb" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0e1d5997-a9c2-4112-bfe5-6057942f95eb" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6FC2822D-620E-41BA-87C5-46165EDE8818",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0e1d5997-a9c2-4112-bfe5-6057942f95eb" : "%E6%81%B6%E9%AD%94%E9%97%B9%E9%92%9F\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AlarmChaser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "恶魔闹钟\/AlarmChaser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/naozhong",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0e1d5997-a9c2-4112-bfe5-6057942f95eb"
+    }
+  ]
+}

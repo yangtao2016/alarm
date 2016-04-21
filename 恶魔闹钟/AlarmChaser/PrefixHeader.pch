@@ -1,0 +1,54 @@
+//
+//  PrefixHeader.pch
+//  AlarmChaser
+//
+//  Created by zhixian on 16/4/15.
+//  Copyright © 2016年 tongari. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+//备忘录文件全路径  data.plist全路径
+#define dataFilePath [[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0]stringByAppendingPathComponent:@"data.plist"]
+
+
+
+
+
+
+#import "UIView+Extension.h"
+#import "baseNSObject.h"
+
+
+
+//// 屏幕的宽和高（包含状态栏）
+#define kAPPFRAMEWIDTH          [UIScreen mainScreen].bounds.size.width
+#define kAPPFRAMEHEIGHT         [UIScreen mainScreen].bounds.size.height
+
+
+
+
+
+/**
+ *  the saving objects      存储对象
+ *
+ *  @param __VALUE__ V
+ *  @param __KEY__   K
+ *
+ *  @return
+ */
+#define KUserDefaultSetObjectForKey(__VALUE__,__KEY__) \
+{\
+[[NSUserDefaults standardUserDefaults] setObject:__VALUE__ forKey:__KEY__];\
+[[NSUserDefaults standardUserDefaults] synchronize];\
+}
+
+/**
+ *  get the saved objects       获得存储的对象
+ */
+#define KUserDefaultObjectForKey(__KEY__)  [[NSUserDefaults standardUserDefaults] objectForKey:__KEY__]
+
+
+#endif /* PrefixHeader_pch */

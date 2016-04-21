@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6FC2822D-620E-41BA-87C5-46165EDE8818</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AlarmChaser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6186E980906C44724DBBE35C481BF7EA552312A</key>
+		<string>https://bitbucket.org/tongari/alarm_chaser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AlarmChaser/AlarmChaser.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6186E980906C44724DBBE35C481BF7EA552312A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/tongari/alarm_chaser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6186E980906C44724DBBE35C481BF7EA552312A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6186E980906C44724DBBE35C481BF7EA552312A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>alarm_chaser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
